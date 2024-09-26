@@ -17,5 +17,7 @@ O dataset contém as seguintes colunas:
 ## Bibliotecas utilizadas
 - pandas
 - matplotlib
-- scikit-learn
+- sklearn
 - seaborn
+- numpy
+- scipy
